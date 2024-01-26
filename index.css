@@ -1,0 +1,16 @@
+@font-face {
+    font-family: Whyfont;
+    src: url('/Whyfont.ttf')format('truetype');
+}
+
+body{
+    font-family: 'Whyfont', 'sans-serif';
+}
+
+.title{
+    text-align: center;
+}
+
+li {
+    
+}
