@@ -1,6 +1,6 @@
 @font-face {
     font-family: Whyfont;
-    src: url('/Whyfont.ttf')format('truetype');
+    src: url(Whyfont.ttf)format('truetype');
 }
 
 body{
